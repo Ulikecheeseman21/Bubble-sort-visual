@@ -2,7 +2,8 @@ Simple bubble sorting algorithm.
 
 | EXE FILE |
 The .exe file is located in a google drive, so I can bypass the 25MB upload limit. I swear on my life I would NEVER put anything like a virus or malware in the code without proper warning
-- [https://drive.google.com/drive/folders/12ec1rbJHNnPsJz7wR_johA-1L5Y93ByN?usp=sharing](https://drive.google.com/drive/folders/12ec1rbJHNnPsJz7wR_johA-1L5Y93ByN?usp=sharing)
+- Link
+  [https://drive.google.com/drive/folders/12ec1rbJHNnPsJz7wR_johA-1L5Y93ByN?usp=sharing](https://drive.google.com/drive/folders/12ec1rbJHNnPsJz7wR_johA-1L5Y93ByN?usp=sharing)
 
 Any issues or bugs can and should be reported and ill update the code and exe to match the error patch
 
