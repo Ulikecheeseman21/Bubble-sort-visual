@@ -1,7 +1,9 @@
 Simple bubble sorting algorithm. 
 
-No executeable file as the file is like 26MB and githib only allows 25MB uploads. So the .py file is linked here. If you can run it, Great! If not.. Then get better I guess?
-
+| EXE FILE |
+The .exe file is located in a google drive, so I can bypass the 25MB upload limit. I swear on my life I would NEVER put anything like a virus or malware in the code without proper warning
+- Link
+  [https://drive.google.com/drive/folders/12ec1rbJHNnPsJz7wR_johA-1L5Y93ByN?usp=sharing](url)
 
 Starts and allows you to control the 
 - Speed of iterations
