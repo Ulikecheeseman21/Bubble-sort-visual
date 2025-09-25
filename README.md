@@ -1,4 +1,8 @@
 Simple bubble sorting algorithm. 
+
+No executeable file as the file is like 26MB and githib only allows 25MB uploads. So the .py file is linked here. If you can run it, Great! If not.. Then get better I guess?
+
+
 Starts and allows you to control the 
 - Speed of iterations
 - re randomization of the list
